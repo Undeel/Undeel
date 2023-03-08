@@ -4,12 +4,10 @@
   "description": "test",
   "authors": [
     {
-      "name": "Mestre Digital",
-      "url": "https://www.youtube.com/c/MestreDigital",
-      "flags": {}
+      "name": "Undeel",
     }
   ],
-  "version": "1.4.2",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -20,4 +18,7 @@
   "styles": [
     "/styles/styles.css"
   ]
+  "socket": true,
+  "url": "https://github.com/Undeel/Undeel/tree/main/B",
+  "manifest": "https://raw.githubusercontent.com/Undeel/Undeel/main/B/module.json",
 }
